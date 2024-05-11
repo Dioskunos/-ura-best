@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anthony's Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Anthony's Personal Page</h1>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>Hi, I'm Anthony, and I have a taste for the best that Curaçao has to offer!</p>
+        <p>I'm passionate about cooking delicious meals and staying active through sports.</p>
+    </section>
+    <section>
+        <h2>Exploring Curaçao</h2>
+        <p>Curaçao is a hidden gem with vibrant culture, stunning beaches, and mouthwatering cuisine. Join me as I showcase the beauty and flavors of this Caribbean paradise!</p>
+    </section>
+    <section>
+        <h2>My Interests</h2>
+        <ul>
+            <li>Cooking</li>
+            <li>Sports</li>
+            <li>Exploring Curaçao</li>
+        </ul>
+    </section>
+    <footer>
+        <p>Contact me at: anthony@example.com</p>
+    </footer>
+</body>
+</html>
